@@ -1,1 +1,0 @@
-{"name":"skyfall-made-by-patryk","version":"0.21.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"express":"^5.1.0","ws":"^8.18.3","bcryptjs":"^3.0.2","jsonwebtoken":"^9.0.2"},"engines":{"node":">=20 <26"}}
